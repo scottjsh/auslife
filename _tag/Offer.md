@@ -1,5 +1,5 @@
 ---
 title: Offer
-identifier: offer
+identifier: Offer
 description: 오퍼 관련
 ---
