@@ -10,6 +10,9 @@ google_analytics: "G-8Y61NXMVLR"
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
+sass:
+  sass_dir: ./assets/css
+
 comments:
   enabled: true
   repo: "scottjsh/blog"
