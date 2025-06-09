@@ -15,7 +15,7 @@ sass:
 
 comments:
   enabled: true
-  repo: "scottjsh/blog"
+  repo: "scottjsh/auslife"
   issue-term: pathname
 
 collections:
