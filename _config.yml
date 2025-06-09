@@ -2,8 +2,8 @@ title: Study Abroad
 description: >-
   Study Abroad Blog<br>
   with Hina.
-url: "https://whitesky.kr/auslife"
-baseurl: "/"
+url: "https://whitesky.kr/"
+baseurl: "auslife/"
 github: scottjsh
 email: scottjsh@whitesky.kr
 google_analytics: "G-8Y61NXMVLR"
