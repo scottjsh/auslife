@@ -3,7 +3,7 @@ description: >-
   Study Abroad Blog<br>
   with Hina.
 url: "https://whitesky.kr/"
-baseurl: "auslife/"
+baseurl: "auslife"
 github: scottjsh
 email: scottjsh@whitesky.kr
 google_analytics: "G-8Y61NXMVLR"
